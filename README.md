@@ -18,5 +18,5 @@ Authentication: JWT (JSON Web Tokens) authentication is implemented to secure us
 Real-time Updates: Implement WebSocket functionality to enable real-time updates on posts.
 Improved User Experience: Enhance the user interface and experience with animations and interactive features.
 Additional Authentication Methods: Integrate OAuth providers for more flexible authentication options.
-Feel free to contribute to this project by forking the repository and submitting pull requests for any enhancements or bug fixes!
 
+🍉🍉🍉

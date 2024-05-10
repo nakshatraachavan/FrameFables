@@ -3,26 +3,55 @@ Memoria is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) applicatio
 
 
 
+
+
+
+
 **Features**
 Create Memories: Users can create memories by uploading pictures along with descriptions.
-Share Memories: Share your memories with friends and family by posting them on the platform.
+
+
 Update and Delete: Users can update or delete their posts at any time.
+
+
 Like Posts: Engage with others by liking their posts.
 
 
 
 
+
+
 **Technologies Used**
+
+
 Frontend: Built with React.js and styled with Material-UI for a sleek and modern user interface.
+
+
 Backend: Utilizes Express.js and Node.js to handle server-side logic and API endpoints.
+
+
 Database: MongoDB is used as the database to store user information and posts.
+
+
 Authentication: JWT (JSON Web Tokens) authentication is implemented to secure user authentication and authorization.
+
+
+
+
+
+
+
+
 
 
 
 **Future Improvements**
 Real-time Updates: Implement WebSocket functionality to enable real-time updates on posts.
+
+
 Improved User Experience: Enhance the user interface and experience with animations and interactive features.
+
+
 Additional Authentication Methods: Integrate OAuth providers for more flexible authentication options.
 
 🍉🍉🍉

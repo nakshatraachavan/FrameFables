@@ -1,11 +1,17 @@
 # FrameFables: Share Your Memories
 Memoria is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to create and share memories with each other through pictures. It provides a platform where users can perform CRUD operations on their posts, including creating, updating, deleting, and liking posts.
 
+
+
 **Features**
 Create Memories: Users can create memories by uploading pictures along with descriptions.
 Share Memories: Share your memories with friends and family by posting them on the platform.
 Update and Delete: Users can update or delete their posts at any time.
 Like Posts: Engage with others by liking their posts.
+
+
+
+
 **Technologies Used**
 Frontend: Built with React.js and styled with Material-UI for a sleek and modern user interface.
 Backend: Utilizes Express.js and Node.js to handle server-side logic and API endpoints.
